@@ -14,8 +14,6 @@
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
-  <a href="components.html" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i
-      class="ti-shift-left-alt"></i> Components</a>
   <header class="header">
     <div class="container">
       <ul class="social-icons pt-3">
@@ -42,7 +40,7 @@
       </ul>
       <div class="header-content">
         <h4 class="header-subtitle">Hello, I am</h4>
-        <h1 class="header-title">Lutfi Abid</h1>
+        <h1 class="header-title">Luthfi Abid</h1>
         <h6 class="header-mono">Web Developer</h6>
         <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button>
       </div>
@@ -91,7 +89,7 @@
         <span class="line mb-5"></span>
         <p>
         <p style="font-size: 1em;text-align:justify;" class="mb-3">
-          Currenly based on Batu City, East Java Indonesia. My interest about Web Developer PHP Laravel since 2016,
+          Currenly based on Batu City, East Java Indonesia. My interest about Web Developer PHP Laravel since 2018,
           learn from my Telkom High School in Malang. I learn many (specifically PHP Laravel and Codeigniter). Now im
           remote working on Software House based on Central Jakarta Indonesia.
         </p>
@@ -161,30 +159,47 @@
             </div>
             <div class="card-body">
               <h6 class="title text-danger">November 2021 - Present</h6>
-              <P>Web Developer</P>
+              <p>PT. Candi Berkah Tehnologi - Web Developer</p>
               <ul>
                 <li style="text-align: justify;" class="mb-2">Developing website <a class="subtitle"
                     href="https://siroum.pom.go.id/">Siroum</a> for internal data National Agency of Drug and Food
-                  Control</li>
+                  Control using Codeigniter</li>
                 <li style="text-align: justify;" class="mb-2">Developing website <a class="subtitle"
                     href="https://perpustakaan.pom.go.id/">e-Library</a> for electronic library of National Agency of
-                  Drug and Food Control</li>
+                  Drug and Food Control using Codeigniter and <a href="https://slims.web.id/web/">Slims</a> library</li>
                 <li style="text-align: justify;" class="mb-2">Developing website <a class="subtitle"
                     href="https://jdih.pom.go.id/">JDIH</a> for legal documentation and information network of National
-                  Agency of Drug and Food Control</li>
+                  Agency of Drug and Food Control using Codeigniter</li>
                 <li style="text-align: justify;" class="mb-2">Developing website Simppu for internal legal documentation
-                  and information network of National Agency of Drug and Food Control</li>
+                  and information network of National Agency of Drug and Food Control using Laravel</li>
               </ul>
               <hr>
-              <h6 class="title text-danger">August - December 2019</h6>
-              <P>Junior Back-end Developer</P>
-              <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae,
-                cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
+              <h6 class="title text-danger">August - November 2020</h6>
+              <p>FINEOZ - Junior Back-end Developer</p>
+              <P class="subtitle">Developing API for automation Credit Scoring using Express Js</p>
               <hr>
-              <h6 class="title text-danger">2015 - 2016</h6>
-              <P>UX Designer</P>
-              <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae,
-                cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
+              <h6 class="title text-danger">November 2019 - July 2020</h6>
+              <p>PT. Klakklik Inovasi Digital - Web Developer</p>
+              <ul>
+                <li style="text-align: justify;" class="mb-2">Developing Helpdesk website that connecting to our client,
+                  so client can request about bug or something else that our working on</li>
+                <li style="text-align: justify;" class="mb-2">Developing website Human Resources Development Agency
+                  "Simdiklat" Jakarta</li>
+              </ul>
+              <hr>
+              <h6 class="title text-danger">April 2019 - September 2019</h6>
+              <p>Codehunter Academy - Trainee</p>
+              <ul>
+                <li style="text-align: justify;" class="mb-2">Developing payment gateway (with API Paypal Sandbox) with
+                  Laravel</li>
+                <li style="text-align: justify;" class="mb-2">Learn how to make a good website with Laravel</li>
+              </ul>
+              <hr>
+              <h6 class="title text-danger">July 2018 - September 2018</h6>
+              <p>Quantum Leap Global Solution - Internship School Program</p>
+              <ul>
+                <li style="text-align: justify;" class="mb-2">Learn ERP warehouse workflow with Laravel</li>
+              </ul>
             </div>
           </div>
         </div>
@@ -197,21 +212,11 @@
               </div>
             </div>
             <div class="card-body">
-              <h6 class="title text-danger">2017 - Present</h6>
-              <P>B.E Computer Engineering</P>
-              <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error corrupti recusandae
-                obcaecati odit repellat ducimus cum, minus tempora aperiam at.</P>
+              <h6 class="title text-danger">2019 - Present</h6>
+              <p>Information System College Student in Binus University</p>
               <hr>
-              <h6 class="title text-danger">2016 - 2017</h6>
-              <P>Diploma in Computer Engineering</P>
-              <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, id officiis quas
-                placeat quia voluptas dolorum rem animi nostrum quae.aliquid repudiandae saepe!.</P>
-              <hr>
-              <h6 class="title text-danger">2015 - 2016</h6>
-              <P>High School Degree</P>
-              <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae,
-                cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
-
+              <h6 class="title text-danger">2016 - 2018</h6>
+              <p>Telkom High School Malang</p>
             </div>
           </div>
         </div>
@@ -224,34 +229,24 @@
               </div>
             </div>
             <div class="card-body pb-2">
-              <h6>hTL5 &amp; CSS3</h6>
-              <div class="progress mb-3">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 97%" aria-valuenow="25"
-                  aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-              <h6>JavaScript</h6>
+              <h6>HTML5 &amp; CSS3</h6>
               <div class="progress mb-3">
                 <div class="progress-bar bg-danger" role="progressbar" style="width: 85%" aria-valuenow="25"
                   aria-valuemin="0" aria-valuemax="100"></div>
               </div>
+              <h6>JavaScript</h6>
+              <div class="progress mb-3">
+                <div class="progress-bar bg-danger" role="progressbar" style="width: 79%" aria-valuenow="25"
+                  aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
               <h6>PHP</h6>
               <div class="progress mb-3">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 80%" aria-valuenow="50"
+                <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="50"
                   aria-valuemin="0" aria-valuemax="100"></div>
               </div>
               <h6>SQL</h6>
               <div class="progress mb-3">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="75"
-                  aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-              <h6>Laborum</h6>
-              <div class="progress mb-3">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="75"
-                  aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-              <h6>Tempora</h6>
-              <div class="progress mb-3">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="75"
+                <div class="progress-bar bg-danger" role="progressbar" style="width: 80%" aria-valuenow="75"
                   aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
@@ -266,23 +261,19 @@
             <div class="card-body pb-2">
               <h6>English</h6>
               <div class="progress mb-3">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 80%" aria-valuenow="25"
+                <div class="progress-bar bg-danger" role="progressbar" style="width: 60%" aria-valuenow="25"
                   aria-valuemin="0" aria-valuemax="100"></div>
               </div>
-              <h6>French</h6>
+              <h6>Indonesia</h6>
               <div class="progress mb-3">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 45%" aria-valuenow="25"
-                  aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-              <h6>Spanish</h6>
-              <div class="progress mb-3">
-                <div class="progress-bar bg-danger" role="progressbar" style="width: 67%" aria-valuenow="50"
+                <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="25"
                   aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
         </div>
       </div>
+    </div>
     </div>
   </section>
 
@@ -542,16 +533,26 @@
               </div>
             </div>
             <ul class="social-icons pt-4">
-              <li class="social-item"><a class="social-link text-dark" href="#"><i class="ti-facebook"
-                    aria-hidden="true"></i></a></li>
-              <li class="social-item"><a class="social-link text-dark" href="#"><i class="ti-twitter"
-                    aria-hidden="true"></i></a></li>
-              <li class="social-item"><a class="social-link text-dark" href="#"><i class="ti-google"
-                    aria-hidden="true"></i></a></li>
-              <li class="social-item"><a class="social-link text-dark" href="#"><i class="ti-instagram"
-                    aria-hidden="true"></i></a></li>
-              <li class="social-item"><a class="social-link text-dark" href="#"><i class="ti-github"
-                    aria-hidden="true"></i></a></li>
+              <li class="social-item">
+                <a class="social-link text-dark" href="https://twitter.com/Abeeeed7">
+                  <i class="ti-twitter" aria-hidden="true"></i>
+                </a>
+              </li>
+              <li class="social-item">
+                <a class="social-link text-dark" href="https://www.instagram.com/luthfiabid87/">
+                  <i class="ti-instagram" aria-hidden="true"></i>
+                </a>
+              </li>
+              <li class="social-item">
+                <a class="social-link text-dark" href="https://www.linkedin.com/in/luthfi-abid-9016b2179/">
+                  <i class="ti-linkedin" aria-hidden="true"></i>
+                </a>
+              </li>
+              <li class="social-item">
+                <a class="social-link text-dark" href="https://github.com/LuthfiAbid" target="_blank">
+                  <i class="ti-github" aria-hidden="true"></i>
+                </a>
+              </li>
             </ul>
           </div>
         </div>
